@@ -12,3 +12,4 @@ This notebook is based off of some old coursework.  It is currently changed to u
 - Make it so colors of lines match color of points? - Depends on line width, original points currently covered up usually.  
 - Decide on line width, colors, etc
 - Error handling for when a path is not possible to complete
+- Label points e.g. 'Start', 1, 2, ... , 'End'?  Could have 'End' denoted with a RMB, 'Start' by the first LMB.  May take up a lot of space on img.
