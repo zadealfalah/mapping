@@ -11,6 +11,6 @@ This notebook uses OpenCV and Dijkstra's to allow a user to interactively select
 The [mapping](https://github.com/zadealfalah/mapping/blob/main/mapping.ipynb) notebook contains all the code used as well as a simple example on a maze.
 
 ## To Do
-- Error handling for when a path is not possible to complete
+- Error handling for when a path is not possible to complete e.g. if map had a square in it
 - Finalize decision on line width, colors, etc
 - Edge detection to take and transform new images into ones the code can handle
