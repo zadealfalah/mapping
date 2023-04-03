@@ -12,9 +12,5 @@ The [mapping](https://github.com/zadealfalah/mapping/blob/main/mapping.ipynb) no
 
 ## To Do
 - Error handling for when a path is not possible to complete
-<<<<<<< Updated upstream
-- Label points e.g. 'Start', 1, 2, ... , 'End'?  Could have 'End' denoted with a RMB, 'Start' by the first LMB.  May take up a lot of space on img.
-=======
 - Finalize decision on line width, colors, etc
 - Edge detection to take and transform new images into ones the code can handle
->>>>>>> Stashed changes
