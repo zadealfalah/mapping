@@ -14,13 +14,13 @@ The [mapping](https://github.com/zadealfalah/mapping/blob/main/mapping.ipynb) no
 ## Examples
 Below we can see two examples of this program.  The first is a simple map where we start at the top left and exit at the bottom left following the shortest calculated path.
 
-![Simple Example Start](/examples/example_map_1_start.PNG)
-![Simple Example Complete](/examples/example_map_1_complete.PNG)
+![Simple Example Start](/examples/example_map_1_start.png)
+![Simple Example Complete](/examples/example_map_1_complete.png)
 
 Secondly we can see an example of multiple input points of interest (POIs) to stop at.  The program finds the shortest path between each point of interest in ascending order starting at point 0.  These POIs were selected via mouse cursor.  It is currently set to display the resulting paths piece-by-piece.
 
-![Multistage Example Start](/examples/example_map_1_multistage_start.PNG)
-![Multistage Example Complete](/examples/example_map_1_multistage_complete_pieces.PNG)
+![Multistage Example Start](/examples/example_map_1_multistage_start.png)
+![Multistage Example Complete](/examples/example_map_1_multistage_complete_pieces.png)
 
 ## To Do
 - Deploy on AWS for others to use
